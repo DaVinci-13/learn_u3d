@@ -3,7 +3,7 @@
     "displayName": "MYSDK",
     "description": "MYSDK, hello world!",
     "version": "0.0.1",
-    "unity": "2021.2.19f1",
+    "unity": "2021.2",
     "license": "MIT",
     "dependencies": {
      }
